@@ -1,3 +1,4 @@
+print("my first code in github using python")
 n = int (input ("Enter a number: "))
 
 factorial = 1
